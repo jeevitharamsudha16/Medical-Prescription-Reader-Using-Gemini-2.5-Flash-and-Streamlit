@@ -22,6 +22,7 @@ This project aims to solve this issue by converting prescription images into **s
 - Provide an **intuitive interface** for uploading images and analyzing them  
 - Allow users to ask **additional queries** related to the prescription  
 
+![Alt Text](https://github.com/jeevitharamsudha16/Medical-Prescription-Reader-Using-Gemini-2.5-Flash-and-Streamlit/blob/main/Snip20251122_1.png)
 
 
 ## 4. Technology Stack
