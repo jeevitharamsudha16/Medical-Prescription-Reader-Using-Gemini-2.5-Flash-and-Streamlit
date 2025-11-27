@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-The **Medical Prescription Analyzer** is an **AI-driven application** designed to interpret both **handwritten** and **printed medical prescriptions**. Using **Google Gemini 2.5 Flash**, the system extracts critical information such as **medicine names**, **dosage**, **patient and doctor details**, and **additional notes**. The goal is to make prescription understanding easier, especially for patients who face difficulty reading **medical handwriting** or **medical shorthand**.
+The **Medical Prescription Analyzer** is an **AI-driven application** designed to interpret both **handwritten** and **printed medical prescriptions**. Using **Google Gemini 2.5 Flash**, the system extracts critical information such as **medicine names**, **dosage**, **patient and doctor details**, and **additional notes**. The goal is to make prescription understanding easier, especially for patients who face difficulty reading **medical handwriting** or **medical shorthand**. 
 
 
 
